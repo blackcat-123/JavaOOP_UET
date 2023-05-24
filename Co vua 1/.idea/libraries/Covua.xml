@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Covua">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Covua.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
